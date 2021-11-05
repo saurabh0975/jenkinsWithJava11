@@ -10,4 +10,4 @@ echo deb https://pkg.jenkins.io/debian-stable binary/ | sudo tee /etc/apt/source
 
 sudo apt-get update
 
-sudo apt-get -y install jenkin
+sudo apt-get -y install jenkins
